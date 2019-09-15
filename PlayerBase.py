@@ -1,6 +1,12 @@
 import pygame
 import math
 
+# Jairo Garciga
+# PlayerBase is the class that creates the object for the player in Zach and I's project.
+# I made PlayerBase in it's entirety and Zach helped me handle some of the bugs that were brought up.
+# This class consists of the player's stats, exp, hp, functions for battling, and functions for receiving items. 
+# It is still a WIP.
+
 class PlayerBase:
     # All the player variables are kept within this area.
     # Exp, health, weapons, damage, and stats will all be here.
