@@ -1,5 +1,8 @@
 import Item
 
+# Jairo Garciga
+# ConsumableHealingItem is the blueprints for the healing items that are created in ConsumableItemsList.
+
 class ConsumableHealingItem(Item):
 
     healAmount = 0
