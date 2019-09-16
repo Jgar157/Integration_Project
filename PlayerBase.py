@@ -29,9 +29,8 @@ class PlayerBase:
     SkillPoints = 0
 
     # The constructor (place holder for now)
-    def __init__(self):
-        print("I exist")
-        self.expalgorithm()
+    def __init__(self, name):
+        self.playerName = name
 
     # Player name Setter & Getter
 
