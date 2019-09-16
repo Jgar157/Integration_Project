@@ -1,5 +1,6 @@
 import Item
 from ConsumableHealingItem import ConsumableHealingItem
+
 # Jairo & Zach
 # This is the list that contains all of the current and future healing items.
 
